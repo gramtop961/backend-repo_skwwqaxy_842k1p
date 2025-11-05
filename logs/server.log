@@ -1,0 +1,22 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [119] using StatReload
+INFO:     Started server process [121]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:45830 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:42644 - "GET /jobs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42646 - "GET /system/resources HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42662 - "GET /health HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42644 - "GET /jobs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42646 - "GET /health HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42662 - "GET /system/resources HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42644 - "GET /health HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42646 - "GET /jobs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42662 - "GET /system/resources HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42666 - "GET /jobs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42666 - "GET /system/resources HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:39416 - "GET /health HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:42666 - "GET /jobs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:39428 - "GET /system/resources HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:39416 - "GET /health HTTP/1.1" 404 Not Found
